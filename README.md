@@ -7,8 +7,9 @@
     prepared for you.</p>
 
 <p>If the embedded link doesn't work, please use this actual link:
-    https://www.canva.com/design/DAFedGS14eA/lNVZf0kBqsD10TDrdJCyTQ/view?utm_content=DAFedGS14eA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-</p>
+    https://www.canva.com/design/DAFedGS14eA/lNVZf0kBqsD10TDrdJCyTQ/view?utm_content=DAFedGS14eA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink</p>
+<p>Additionally, here is the link for the video: https://drive.google.com/file/d/1RiKRfUI4fyAA5TYw38zhFKvbmhDiXk89/view?usp=sharing</p>
+<p>And the link for UML Diagram: https://lucid.app/lucidchart/b0ed5bd9-c6cc-4683-a9ac-bf9834c539a8/edit?viewport_loc=-46%2C-4%2C2704%2C1284%2CHWEp-vi-RSFO&invitationId=inv_086be66b-bc0e-4ddc-bbfa-70f6e0655ecd</p>
 
 
 <h2 id="description">Description</h2>
